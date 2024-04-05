@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@AllyKat/30-nites-of-code)  
-  ![@AllyKat #30NitesOfCode](https://www.codedex.io/api/petS
+  ![@AllyKat #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AllyKat)
